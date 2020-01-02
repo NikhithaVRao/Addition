@@ -2,6 +2,12 @@ package Addition;
 
 public class Controller {
 
+	
+	public void disp()
+	{
+		System.out.println(100);
+	}
+	
 	int num1, num2;
 	public static void main(String[] args)
 	{
@@ -14,5 +20,6 @@ public class Controller {
 	
 	a.add(c);
 	v1.printSum(a);
+	c.disp();
 	}
 }
