@@ -6,7 +6,7 @@ public class Arithmetic {
 	int add(Controller c)
 	{
 		sum = c.num1 + c.num2;
-		System.out.println("kshhgd");
+		System.out.println("kishan");
 		return sum;
 	}
 }
