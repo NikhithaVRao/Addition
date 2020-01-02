@@ -7,10 +7,10 @@ public class Arithmetic {
 	{
 		sum = c.num1 + c.num2;
 
+
 		System.out.println("master");
+		System.out.println("kishan");
 
-
-		
 		return sum;
 	}
 }
