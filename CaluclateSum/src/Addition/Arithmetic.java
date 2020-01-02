@@ -7,7 +7,8 @@ public class Arithmetic {
 	{
 		sum = c.num1 + c.num2;
 
-		System.out.println("hellokhg");
+		System.out.println("master");
+
 
 		
 		return sum;
